@@ -12,4 +12,5 @@ class Solution(object):
                 d[i]+=1
             if d[i]>len(nums)/2:
                 return i
+            
         
